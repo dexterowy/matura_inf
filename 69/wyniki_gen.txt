@@ -1,0 +1,14 @@
+69.1
+liczba gatunkow: 206
+najwieksza liczba osobnikow z tego samego gatunku: 20
+
+69.2
+ilosc osobnikow z mutacją: 8
+
+69.3
+najwieksza ilosc genow u jednego osobnika: 11
+najwieksza dlugosc genu: 189
+
+69.4
+silnie odporne genotypy: 187
+odporne genotypy: 259

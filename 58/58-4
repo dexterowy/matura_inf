@@ -1,0 +1,17 @@
+import math
+plik = open('dane_systemy1.txt')
+data = plik.readlines()
+for i, line in enumerate(data):
+    data[i] = line.rstrip().split(' ')
+print(data)
+temp = []
+for line in data:
+    temp.append(int(line[1], 2))
+print(temp)
+skok = []
+for i in range(0, len(temp)):
+    for j in range(i+1, len(temp)):
+        r = (temp[i]-temp[j])**2
+        skok.append(math.ceil(r/abs(i-j)))
+
+print(max(skok))

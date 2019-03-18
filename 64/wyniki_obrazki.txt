@@ -1,0 +1,48 @@
+64.1
+ile rewersow: 13
+najwiecej czarnych pikseli: 381
+
+64.2
+ilosc rekurencyjnych obrazkow: 60
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+
+64.3
+obrazki poprawne: 171
+obrazki naprawialne: 14
+obrazki nienaprawialne: 15
+najwieksza ilosc bledow w obrazku: 7
+
+64.4
+obrazek: 14 , wiersz: 1 , kolumna: 15
+obrazek: 19 , wiersz: 4 , kolumna: 20
+obrazek: 26 , wiersz: 21 , kolumna: 13
+obrazek: 29 , wiersz: 2 , kolumna: 8
+obrazek: 33 , wiersz: 15 , kolumna: 21
+obrazek: 115 , wiersz: 21 , kolumna: 14
+obrazek: 116 , wiersz: 21 , kolumna: 13
+obrazek: 129 , wiersz: 21 , kolumna: 14
+obrazek: 131 , wiersz: 10 , kolumna: 7
+obrazek: 143 , wiersz: 7 , kolumna: 15
+obrazek: 154 , wiersz: 7 , kolumna: 7
+obrazek: 161 , wiersz: 21 , kolumna: 17
+obrazek: 162 , wiersz: 21 , kolumna: 16
+obrazek: 187 , wiersz: 21 , kolumna: 18

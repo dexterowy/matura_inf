@@ -1,0 +1,16 @@
+zad 1
+9
+
+zad 2
+93
+
+zad 3
+17
+
+
+
+
+
+
+str 129
+rozwiazania 461

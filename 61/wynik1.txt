@@ -1,0 +1,3 @@
+44 - ilosc ciagow arytmetycznych
+246849 - najwieksza roznica ciagu arytmetycznego
+298, 247147, 493996, 740845, 987694 - ciag z najwieksza roznica

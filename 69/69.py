@@ -1,19 +1,22 @@
-plik = open('dane_geny.txt')
-data = plik.read().splitlines()
-osobniki = []
-for line in data:
+def splitgenes(gens):
+    results = []
     start = 0
     end = 0
-    geny_osobnika = []
-    for i in range(len(line)-1):
-        if line[i] == 'A' and line[i+1] == 'A' and start == 0:
+    begining = True
+    for i in range(len(gens) - 1):
+        if gens[i] == 'A' and gens[i + 1] == 'A' and begining:
             start = i
-        if start != 0 and line[i] == 'B' and line[i+1] == 'B':
-            end = i+2
-            geny_osobnika.append(line[start:end])
-            start = 0
-            end = 0
-    osobniki.append(geny_osobnika)
+            begining = False
+        if not begining  and gens[i] == 'B' and gens[i + 1] == 'B':
+            end = i + 2
+            results.append(gens[start:end])
+            begining = True
+    return results
+
+
+plik = open('dane_geny.txt')
+data = plik.read().splitlines()
+
 gatunek_max = 0
 gatunki = []
 gatunki_all = []
@@ -32,7 +35,12 @@ print('najwieksza liczba osobnikow z tego samego gatunku:', gatunek_max)
 
 
 print('zad 2')
+osobniki = []
 mutated = 0
+
+for line in data:
+    osobniki.append(splitgenes(line))
+
 for osobnik in osobniki:
     mutate = False
     for gen in osobnik:
@@ -59,7 +67,7 @@ print('zad 4')
 strong = 0
 for genotyp in data:
     j = len(genotyp)-1
-    i =0
+    i = 0
     palindrom = True
     while i <= j:
         if genotyp[i] != genotyp[j]:
@@ -72,32 +80,14 @@ for genotyp in data:
 print('silnie odporne genotypy:',strong)
 odporne = 0
 for line in data:
-    start = 0
-    end = 0
-    geny_osobnika = []
-    geny_osobnika_rev = []
-    for i in range(len(line)-1):
-        if line[i] == 'A' and line[i+1] == 'A' and start == 0:
-            start = i
-        if start != 0 and line[i] == 'B' and line[i+1] == 'B':
-            end = i+2
-            geny_osobnika.append(line[start:end])
-            start = 0
-            end = 0
-    line_rev = line[::-1]
-    start = 0
-    end = 0
-    for i in range(len(line)-1):
-        if line_rev[i] == 'A' and line_rev[i+1] == 'A' and start == 0:
-            start = i
-        if start != 0 and line_rev[i] == 'B' and line_rev[i+1] == 'B':
-            end = i+2
-            geny_osobnika_rev.append(line_rev[start:end])
-            start = 0
-            end = 0
-    a = ''.join(geny_osobnika_rev)
-    b = ''.join(geny_osobnika)
 
-    if a == b and len(a) > 0:
+    #print('Line: ', line)
+    #print('Rev: ', line[::-1])
+    geny_osobnika = splitgenes(line)
+    geny_osobnika_rev = splitgenes(line[::-1])
+
+    if sorted(geny_osobnika) == sorted(geny_osobnika_rev):
+        #print('A: ', geny_osobnika)
+        #print('B: ', geny_osobnika_rev)
         odporne += 1
-print('odporne genotypy:',odporne)
+print('odporne genotypy:', odporne)

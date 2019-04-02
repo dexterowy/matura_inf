@@ -36,24 +36,26 @@ max_end = 0
 max_end_words = []
 for line in data:
     if line[0][-1] == line[1][-1]:
-        if len(line[0]) > len(line[1]):
-            i = len(line[1])-1
+        if len(line[0]) < len(line[1]):
+            i = len(line[0])
         else:
-            i = len(line[0])-1
+            i = len(line[1])
         tmp_max = 0
-        while i >= 0:
-            if line[0][i] == line[1][i]:
-                tmp_max +=1
-                i -= 1
+        j = 1
+        while j <= i:
+            if line[0][-j] == line[1][-j]:
+                tmp_max += 1
             else:
                 break
-        if tmp_max >  max_end:
+            j += 1
+        if tmp_max > max_end:
             max_end = tmp_max
             max_end_words = []
             max_end_words.append(line)
         elif tmp_max == max_end:
             max_end_words.append(line)
-print('maksymalna dlugosc zakonczenia:',max_end)
-print(max_end_words)
+print('maksymalna dlugosc zakonczenia:', max_end)
+for word in max_end_words:
+    print(word[0], word[1])
 #print(data)
 

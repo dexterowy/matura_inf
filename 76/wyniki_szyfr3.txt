@@ -1,0 +1,3 @@
+tmp = crypted[i]
+    crypted[i] = crypted[key[i % len(key)] - 1]
+    crypted[key[i % len(key)] - 1] = tmp

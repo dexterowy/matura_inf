@@ -17,7 +17,7 @@ print('wyrazy z podwojona litera:', count)
 print('zad 2')
 
 merged = ''.join(data)
-letters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','W','X','Y','Z']
+letters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 for letter in letters:
     count = merged.count(letter)
     print(letter+':', count, '('+str(round((count/len(merged))*100, 2))+ '%)')

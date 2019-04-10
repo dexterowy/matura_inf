@@ -1,0 +1,16 @@
+zad 1
+pierwsza: 1339
+druga: 274
+trzecia: 166
+czwarta: 218
+nie zawierajacych sie w calosci w zadnej cwiartce: 3
+
+zad 2
+ilosc par lustrzanych 158
+
+zad 3
+ilosc par prostopadlych: 231
+
+zad 4
+6, 3, 11, 7, 4, 5, 12, 36, 18, 53, 87, 21, 73, 39, 31, 12, 41, 10, 64, 22, 57, 31, 41, 50, 65, 73, 45, 18, 37, 28,
+87

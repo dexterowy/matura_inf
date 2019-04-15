@@ -1,0 +1,18 @@
+88.1
+sprzedanych: 592
+ostatniego dnia zostało: 8
+
+88.2 wykres
+
+88.3
+11 grudnia
+
+88.4
+ilosc dostaw: 17
+w dniach: 1,4,6,8,10,11,12,14,15,16,17,18,20,21,22,23,24
+sprzedanych: 819
+
+88.5
+liczba dostarczanych choinek: 35
+pozostałe choinki ostatniego dnia: 21
+

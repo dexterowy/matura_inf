@@ -1,0 +1,32 @@
+92.1
+liczba państw	54
+suma medali	1218
+
+
+92.2
+	letnie	zimowe
+Afryka	        26	11
+Ameryka Pld.	13	9
+Ameryka Pln.	14	9
+Australia i Oc.	3	3
+Azja	        35	21
+Europa	        47	46
+
+
+92.3
+Burundi
+Kamerun
+Zjednoczone Emiraty Arabskie
+
+
+92.4
+Kenia	86
+Brazylia	108
+StanyZjednoczone	2681
+Chiny	526
+ZSRR	1204
+
+
+92.5
+zimowe	3
+letnie	35

@@ -1,0 +1,27 @@
+89.1
+Bialaszewski	Wiktor
+Cicherski	Szymon
+Florek	Sandra
+Kaminski	Mikolaj
+Krol	Malgorzata
+
+89.2
+najczęstsza liczba pkt. rekrutacyjnych: 55,6
+Inka	Sochacka
+Zofia	Broszkow
+Laura	Murczynska
+Lucja	Majtas
+Kacper	Odya
+Inga	Sokolnicka
+
+89.3
+Oliwier	Grzelecki
+Aleks	Wojcicki
+Jakub	Rembiewski
+Jakub	Przytula
+
+89.4
+wykres
+
+89.5
+300

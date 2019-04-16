@@ -1,0 +1,56 @@
+90.1
+Najwiecej studentów z: Katowice
+Ilość studentów z katowic: 57
+Najwięcej studentów z Katowic studiuje na: Politechnika Informatyczno-Elektryczna
+
+90.2
+przy kryterium wynoszącym 2000 denarów wolnych miejsc byłoby: 143
+aby zająć wszystkie miejsca kryterium powinno wynosić: 2256zł
+
+90.3
+Akademia Sztuk Pieknych	1985,98
+Politechnika Informatyczno-Elektroniczna	1814,20
+Politechnika Krolewska	1947,34
+Uniwersytet Ekonomiczny	1921,06
+Uniwersytet Krolewski	1832,22
+Uniwersytet Muzyczny	2124,00
+Uniwersytet Pedagogiczny	1858,47
+Uniwersytet Rolniczy	1898,49
+Uniwersytet Sportu i Turystyki	1923,81
+Wyzsza Szkoła Techniczna	1871,07
+
+90.4
+                                            I   II  III IV  V
+Akademia Sztuk Pieknych                     32	10	6	2	5
+Politechnika Informatyczno-Elektroniczna	299	108	48	54	54
+Politechnika Krolewska	                    168	59	28	31	25
+Uniwersytet Ekonomiczny	                    32	9	3	2	7
+Uniwersytet Krolewski	                    233	77	53	32	61
+Uniwersytet Muzyczny	                    5	2		1
+Uniwersytet Pedagogiczny	                31	11	4	2	5
+Uniwersytet Rolniczy	                    27	14	7	5	6
+Uniwersytet Sportu i Turystyki	            24	5	6	3	5
+Wyzsza Szkoła Techniczna	                8	1	1		5
+
+
+90.5
+Michal	Bilski	Kedzierzyn-Kozle	2807
+Klaudia	Kotowicz	Katowice	1950
+Anna	Barska	Ogrodzieniec	1047
+Tadeusz	Kotowicz	Katowice	1950
+Piotr	Jablonski	Sanok	1185
+Weronika	Kaczmarek	Wodzislaw Slaski	1140
+Sylwester	Borkowski	Szczyrk	1683
+Robert	Tomaszewski	Wisla	1511
+Bartosz	Tomaszewski	Wisla	1511
+Joanna	Bilska	Kedzierzyn-Kozle	2807
+Zygmunt	Jablonski	Sanok	1185
+Waclawa	Borkowska	Szczyrk	1683
+Tomasz	Kaczmarek	Wodzislaw Slaski	1140
+Jacek	Andrzejewski	Ruda Slaska	2241
+Iwona	Andrzejewska	Ruda Slaska	2241
+Krzysztof	Barski	Ogrodzieniec	1047
+Przemyslaw	Kaczmarek	Wodzislaw Slaski	1140
+Boguslawa	Ostrowska	Tarnowskie Gory	2466
+Barbara	Barska	Ogrodzieniec	1047
+Felicja	Ostrowska	Tarnowskie Gory	2466

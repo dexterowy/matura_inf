@@ -1,0 +1,54 @@
+91.1
+Beatrycze
+Ines
+Doris
+
+91.2
+59031152059	Kowalczyk	Mateusz
+66100294134	Kowalczyk	Mateusz
+09211700664	Kozlowska	Malgorzata
+09313003607	Kozlowska	Malgorzata
+67112966668	Kozlowska	Malgorzata
+08322201772	Michalak	Krzysztof
+09311310792	Michalak	Krzysztof
+08321103754	Wizniewski	Andrzej
+09321501177	Wizniewski	Andrzej
+
+91.3
+największa	Dzierzak	Piotr
+najmniejsza	Wendt	Amelia
+
+91.4
+Styczeń	68
+Luty	33
+Marzec	9
+Kwiecień	16
+Maj	13
+Czerwiec	15
+Lipiec	19
+Sierpień	22
+Wrzesień	32
+Październik	67
+Listopad	99
+Grudzień	101
+
+91.5
+AWie3
+AWit4
+AWoj0
+AWoj2
+AWoj8
+BWas9
+JPod4
+KMic2
+LMar4
+MKoc9
+MKor0
+MKow4
+MLub7
+NJak2
+NJan3
+NJan6
+SCie9
+SDab7
+ZAda1

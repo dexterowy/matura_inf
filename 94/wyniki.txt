@@ -1,0 +1,45 @@
+94.1
+718	269,57%
+
+94.2
+10 lat
+11 lat
+12 lat
+13 lat
+
+
+94.3
+17
+
+94.4
+d	8 lat
+ch	11 lat
+
+94.5
+	95 centyl	5 centyl
+ch1	80	68
+ch10	147	128
+ch19	187	166
+
+
+94.6
+narodziny	52
+1rok	74
+2lata	87
+3lata	96
+4lata	103
+5lat	110
+6lat	116
+7lat	121
+8lat	127
+9lat	132
+10lat	138
+11lat	143
+12lat	149
+13lat	156
+14lat	163
+15lat	169
+16lat	173
+17 lat	175
+18lat	176
+19lat	176

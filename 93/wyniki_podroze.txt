@@ -1,0 +1,45 @@
+93.1
+Ewelina	Adamska
+
+
+93.2
+Kolarski	41
+Rzymski	42
+Laska	41
+Rzepka	42
+Maskor	41
+Budzianowska	41
+
+
+93.3
+Radom	27 599,50 zł
+Siedlce	34 215,40 zł
+Zgierz	38 263,50 zł
+Kutno	43 372,80 zł
+Kielce	48 014,70 zł
+Olsztyn	50 606,60 zł
+Kalisz	51 099,00 zł
+Lublin	53 209,50 zł
+Mielec	54 144,00 zł
+Bydgoszcz	63 932,00 zł
+Krakow	80 344,50 zł
+Katowice	81 486,30 zł
+Malbork	84 280,00 zł
+
+93.4
+Styczeń	130
+Luty	68
+Marzec	63
+Kwiecień	32
+Maj	31
+Czerwiec	63
+Lipiec	70
+Sierpień	54
+Wrzesień	121
+Październik	103
+Listopad	135
+Grudzień	130
+
+93.5
+srednia noclegów wszystkich delegacji:	1,64
+srednia nocelgów delegacji co najmniej 2 dniowych:	2,25
